@@ -14,8 +14,8 @@ var config = {
         "错过本该厮守一生的人",
         "下次见到BB就是21岁啦",
         "希望bb绩点高高",
-        "开心快乐",
-        "么么么",
+        "开心快乐每一天",
+        "啵啵啵",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -28,6 +28,17 @@ var config = {
      */
     imgs: {
         "心爱的Protein小宝贝": "./imgs/Protein6.jpg",
+        "今天是你的生日": "./imgs/Protein6.jpg",
+        "这是我们在一起的": "./imgs/Couple1.jpg",
+        "第2个生日了哦": "./imgs/Couple1.jpg",
+        "这次生日没有陪在BB身边": "./imgs/Couple2.jpg",
+        "异地恋是挺辛苦的": "./imgs/Couple2.jpg",
+        "但我不希望因为距离": "./imgs/Couple2.jpg",
+        "错过本该厮守一生的人": "./imgs/Couple2.jpg",
+        "下次见到BB就是21岁啦": "./imgs/Protein1.jpg",
+        "希望bb绩点高高": "./imgs/Protein2.jpg",
+        "开心快乐每一天": "./imgs/Protein3.jpg",
+        "啵啵啵": "./imgs/Protein4.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
