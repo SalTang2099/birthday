@@ -29,8 +29,8 @@ var config = {
     imgs: {
         "心爱的Protein小宝贝": "./imgs/Protein6.jpg",
         "今天是你的生日": "./imgs/Protein6.jpg",
-        "这是我们在一起的": "./imgs/Couple1.jpg",
-        "第2个生日了哦": "./imgs/Couple1.jpg",
+        "这是我们在一起的": "./imgs/couple1.jpg",
+        "第2个生日了哦": "./imgs/couple1.jpg",
         "这次生日没有陪在BB身边": "./imgs/Couple2.jpg",
         "异地恋是挺辛苦的": "./imgs/Couple2.jpg",
         "但我不希望因为距离": "./imgs/Couple2.jpg",
